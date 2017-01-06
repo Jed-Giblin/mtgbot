@@ -1,0 +1,19 @@
+{
+	"name": "Mtgbot",
+	"version": "1.0.0",
+	"description" : "bot",
+	"main": "bot.js",
+	"scripts": {
+	  "test": "nodemon test-bot.js"
+	},
+	"repository": {
+	  "type": "git",
+	  "url": "https://github.com/Jed-Giblin/mtgbot"
+	},
+	"author":"jed giblin",
+	"license": "MIT",
+	"dependencies": {
+	  "discordie": "^0.5.5"
+	}
+}
+	
